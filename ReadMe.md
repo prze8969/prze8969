@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning many things to discover what I like.<br>Fields I have explored: Cybersecurity, Web development,<br>Data science, Machine learning.
+Learning many things to discover what I like.<br>Fields I have explored: Cybersecurity, Web development,<br>Data science, Machine learning, Blockchain development.
 
 
 ## 🌐 Socials:
